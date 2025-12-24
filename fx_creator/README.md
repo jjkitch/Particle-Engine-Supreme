@@ -1,4 +1,3 @@
-```markdown
 # Particle Engine Supreme - FX Creator
 
 A powerful, visual particle effect editor built in Python using PySide6 and the custom `particle_engine_supreme` backend. This tool allows you to create, tweak, preview, and export highly customizable real-time particle effects suitable for games, UI enhancements, visualisations, or creative projects.
@@ -151,4 +150,3 @@ Feel free to open issues or pull requests in the repository. Suggested improveme
 - Additional emitter shapes or behaviors
 
 Enjoy creating spectacular particle effects!
-```
