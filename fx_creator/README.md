@@ -27,7 +27,7 @@ A powerful, visual particle effect editor built in Python using PySide6 and the 
 - The companion module `particle_engine_supreme` (must be in the parent directory or installed)
 - Project structure expected:
   ```
-  Qt_Praticle_Engine/
+  Qt_Particle_Engine/
   ├── particle_engine_supreme/    # the engine module
   ├── fx_creator/
   │   ├── __init__.py
